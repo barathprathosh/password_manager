@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include password_manager *.css
+recursive-include password_manager *.csv
+recursive-include password_manager *.html
+recursive-include password_manager *.ico
+recursive-include password_manager *.js
+recursive-include password_manager *.json
+recursive-include password_manager *.md
+recursive-include password_manager *.png
+recursive-include password_manager *.py
+recursive-include password_manager *.svg
+recursive-include password_manager *.txt
+recursive-exclude password_manager *.pyc
