@@ -19,8 +19,13 @@
   }
  ],
  "index_web_pages_for_search": 1,
- "links": [],
- "modified": "2023-06-17 16:02:18.102996",
+ "links": [
+  {
+   "link_doctype": "Password Manager",
+   "link_fieldname": "category"
+  }
+ ],
+ "modified": "2023-06-18 15:52:25.435899",
  "modified_by": "Administrator",
  "module": "Password Manager",
  "name": "PM Category",
